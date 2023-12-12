@@ -4,7 +4,7 @@
 require "bundler/inline"
 
 gemfile(true) do
-  source "https://rubygems.org"
+  source "https://gems.ruby-china.com"
 
   gem "webdrivers"
   gem "colored2"

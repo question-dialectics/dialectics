@@ -15,7 +15,7 @@ GIT
       activesupport (>= 5.2.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     actionmailer (7.0.7)
       actionpack (= 7.0.7)
